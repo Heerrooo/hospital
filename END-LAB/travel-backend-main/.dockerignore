@@ -1,0 +1,10 @@
+target
+.idea
+.vscode
+.mvn
+**/node_modules
+*.log
+README.md
+*.iml
+*.class
+pom.xml.orig
